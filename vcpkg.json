@@ -1,0 +1,19 @@
+{
+  "dependencies" : [ {
+    "name" : "wxwidgets",
+    "version>=" : "3.2.6"
+  }, {
+    "name" : "superlu",
+    "version>=" : "7.0.0"
+  }, {
+    "name" : "openblas",
+    "version>=" : "0.3.28#1"
+  }, {
+    "name" : "lapack",
+    "version>=" : "2023-06-10#2"
+  }, {
+    "name" : "metis",
+    "version>=" : "2022-07-27"
+  } ],
+  "builtin-baseline" : "57c08a3223a1ec03c3a31986ee38d32e90b6039c"
+}
