@@ -56,7 +56,7 @@ choco install visualstudio2022-workload-vctools -y
 
 ### Launching the Project
 
- 1. Download this project to your computer as a .zip file on Windows.
+ 1. You can [click here](https://github.com/bytes-that-rhyme/template-linear-algebra-wxwidgets/archive/refs/heads/main.zip) to download this project to your computer as a .zip file
  2. Right-click the file, then pick **Extract All**.
  3. Open the extracted file contents.
  4. Right-click a blank area in the folder.
